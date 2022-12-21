@@ -18,4 +18,4 @@ with open('Skills_en.txt','w') as f:
     for d in data:
         f.write('#'+d+'\n')
 
-print("สำเร็จ")
+print("successfully translated")
