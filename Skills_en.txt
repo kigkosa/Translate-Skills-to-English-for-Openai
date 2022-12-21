@@ -1,0 +1,2 @@
+#The player will bleed themselves and then randomly select 3 enemies within 10 blocks to inflict damage and restore 5% of their blood per enemy.
+#If you cast too many spells, you will destroy yourself.
